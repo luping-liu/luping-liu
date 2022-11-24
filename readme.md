@@ -4,7 +4,7 @@ I am Luping Liu (刘路平). I am a second year Master's student in Computer Sci
 
 ### 📎 Homepages
 
-- Personal Pages: https://luping-liu.github.io
+- Personal Page: https://luping-liu.github.io
 - Google Scholar: https://scholar.google.com/citations?user=DIHzHQYAAAAJ
 
 ### 🔥 News
